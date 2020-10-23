@@ -1,1 +1,1 @@
-## Digit-Recognition using paint
+### Digit-Recognition Pattern using paint
